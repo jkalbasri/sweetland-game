@@ -1,6 +1,6 @@
-# Avocado and Kiwi in Sweetland - Physics Game 🎮 
+# Sweetland - Physics Game 🎮 
 
-As part of the Challenge, a physics-based mini-game was designed using the p5.js and Vue.js frameworks.
+This physics-based mini-game, developed using the p5.js and Vue.js frameworks, is part of a small collection of mini-games I developed.
 
 <a href="https://jkalbasri.github.io/sweetland-game/" target="_blank" align="center">
   <picture>

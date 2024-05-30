@@ -1,4 +1,4 @@
-# 408 Timeout - Physics Game 🎮 
+# Avocado and Kiwi in Sweetland - Physics Game 🎮 
 
 As part of the Challenge, a physics-based mini-game was designed using the p5.js and Vue.js frameworks.
 
